@@ -1,6 +1,6 @@
 # SizeClassesSwiftUI
 
-This is a basic overview of using size classes to build adoptive layout in SwiftUI. 
+This is a basic overview of using size classes to build adaptive layout in SwiftUI. 
 
 SwiftUI provides us **@Environament** property wrapper for both horizontalSizeClass and verticalSizeClass. Firstly we need to store value in like below
 
@@ -22,7 +22,7 @@ Then we can check for the value
 
 If you want to know more about **Device size classes** based on orientation then check out Layout section in Human interface guidelines here https://developer.apple.com/design/human-interface-guidelines/foundations/layout/
 
-Size Classes are super useful to create adoptive design along differnt screen sizes. Here is an example of dummy UI on IPhone12 pro and IPad pro 12.9 inches.
+Size Classes are super useful to create adaptive design along differnt screen sizes. Here is an example of dummy UI on IPhone12 pro and IPad pro 12.9 inches.
 
 <img src="SizeClassesSwiftUI/Images/Home.png" alt="Logo" width="500" height="400">
 
