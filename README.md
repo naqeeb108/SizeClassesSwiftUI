@@ -1,3 +1,3 @@
 # SizeClassesSwiftUI
 
-This is an overview of using size classes in SwiftUI.
+This is a basic overview of using size classes in SwiftUI. 
