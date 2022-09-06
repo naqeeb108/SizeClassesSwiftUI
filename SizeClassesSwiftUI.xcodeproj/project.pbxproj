@@ -22,6 +22,7 @@
 		048C4BC228C677880090CA2A /* HorizentalList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048C4BC128C677880090CA2A /* HorizentalList.swift */; };
 		048C4BC728C677F00090CA2A /* TopHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048C4BC628C677F00090CA2A /* TopHeaderView.swift */; };
 		048C4BCA28C737F30090CA2A /* Enums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048C4BC928C737F30090CA2A /* Enums.swift */; };
+		048C4BCF28C7CB980090CA2A /* Home.png in Resources */ = {isa = PBXBuildFile; fileRef = 048C4BCE28C7CB980090CA2A /* Home.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,7 @@
 		048C4BC128C677880090CA2A /* HorizentalList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HorizentalList.swift; sourceTree = "<group>"; };
 		048C4BC628C677F00090CA2A /* TopHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopHeaderView.swift; sourceTree = "<group>"; };
 		048C4BC928C737F30090CA2A /* Enums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enums.swift; sourceTree = "<group>"; };
+		048C4BCE28C7CB980090CA2A /* Home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Home.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 		0436624D28C472E500B7841B /* SizeClassesSwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				048C4BCD28C7CB800090CA2A /* Images */,
 				048C4BAC28C48D090090CA2A /* Views */,
 				048C4BC828C737E30090CA2A /* Enums */,
 				048C4BAD28C48D170090CA2A /* App */,
@@ -255,6 +258,14 @@
 			path = Enums;
 			sourceTree = "<group>";
 		};
+		048C4BCD28C7CB800090CA2A /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				048C4BCE28C7CB980090CA2A /* Home.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -360,6 +371,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0436625628C472E900B7841B /* Preview Assets.xcassets in Resources */,
+				048C4BCF28C7CB980090CA2A /* Home.png in Resources */,
 				0436625328C472E900B7841B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
