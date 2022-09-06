@@ -37,7 +37,7 @@ Leave a message - ahmed.naqeeb108@gmail.com
 
 ## Acknowledgments
 
-Following resources i found helpful. please do checkout to learn moew.
+Following resources i found helpful. please do check out to learn more.
 
 * [Hacking With Swift](https://www.hackingwithswift.com/quick-start/swiftui/how-to-create-different-layouts-using-size-classes)
 * [Size Classes - SwiftUI - Adopt Landscape Example](https://www.youtube.com/watch?v=fyhYRkTIzoM)
