@@ -20,9 +20,11 @@ Then we can check for the value
   }
 ```
 
-If you want to know more about **Device size classes** based on orientation then check out Layout section in Human interface guidelines here https://developer.apple.com/design/human-interface-guidelines/foundations/layout/
+If you want to know more about **Device size classes** based on orientation then check out Layout section in Human Interface Guidelines here:
 
-Size Classes are super useful to create adaptive design along differnt screen sizes. Here is an example of dummy UI on IPhone12 pro and IPad pro 12.9 inches.
+https://developer.apple.com/design/human-interface-guidelines/foundations/layout/
+
+Size Classes are super useful to create adaptive design along differnt screen sizes and orientations. Here is an example of dummy UI on IPhone12 pro and IPad pro 12.9 inches.
 
 <img src="SizeClassesSwiftUI/Images/Home.png" alt="Logo" width="500" height="400">
 
